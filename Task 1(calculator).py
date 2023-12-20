@@ -1,4 +1,4 @@
-# Below program is of 
+# Here is my task1 program where I made a calculator program
 # The calculator logo is taken from https://ascii.co.uk/art
 logo = """
  _____________________
